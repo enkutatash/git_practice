@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is Enkutatash's 
 this is new line
+=======
+This is Enkutatash's  file 
+>>>>>>> enkutatash.mergeconflict
